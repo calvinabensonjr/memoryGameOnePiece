@@ -9,6 +9,10 @@
 
 ## To Use
 
+Go to https://onepiecememorygame.netlify.app
+
+Or for local use/editing
+
 1. Download zip file
 2. Open zip file
 3. Open file in your code editor
