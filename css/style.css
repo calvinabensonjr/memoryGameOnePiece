@@ -1,4 +1,4 @@
-*{
+* {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
@@ -6,8 +6,7 @@
 
 body{
   height: 100vh;
-  background: #099cb3;
-  background-image: url("image/onePieceWallpaper.jpeg");
+  background-image: url("../image/onePieceWallpaper.jpeg");
   display: flex;
 }
 .text{
