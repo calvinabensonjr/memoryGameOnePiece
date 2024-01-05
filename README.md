@@ -3,7 +3,7 @@
 ![One Piece Board image](image/onePieceBoard.png)
 
 ## Tech Used:
-- HTMl
+- HTML
 - CSS
 - Javascript
 
