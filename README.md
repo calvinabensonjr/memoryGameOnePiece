@@ -1,6 +1,6 @@
 # memoryGameOnePiece
 
-![memoryBoard image](image/OnePieceBoard.png)
+![One Piece Board image](image/onePieceBoard.png)
 
 ## Tech Used:
 - HTMl
